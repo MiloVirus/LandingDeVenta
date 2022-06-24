@@ -89,7 +89,7 @@ h1
 {
     display: flex;
     width: 100%;
-    padding: 1.5em 18em 18em 18em;
+    padding: 2% 10% 10% 10%;
 } 
 .card 
 {
@@ -139,6 +139,29 @@ h1
 {
     color: rgb(75, 74, 74);
 }
+.containerAdicionales
+{
+     display: flex;
+}
+.containerImgAdicionales img 
+{
+    max-width: 1000px;
+}
+.textAdicionales
+{
+    display: flex;
+    text-align: left;
+    padding: 150px;
+    min-height: 400px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+
+
+
 @media only screen and (max-width: 800px) {
     
     .navLinks
