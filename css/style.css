@@ -158,6 +158,31 @@ h1
     align-items: center;
     color: white;
 }
+footer
+{
+    background-color: white;
+}
+.gridContainer
+{
+ display: flex;
+ text-align: left;
+ align-items: center;
+ align-content: center;
+ justify-content: center;
+ padding-top: 50px;
+ padding-bottom: 50px;
+}
+.gridSoporte
+{
+    display: grid;
+    margin-right: 29px;
+
+}
+.gridNosotros
+{
+    display: grid;
+    margin-left: 29px ;
+}
 
 
 
